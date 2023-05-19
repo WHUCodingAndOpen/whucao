@@ -1,7 +1,7 @@
 module.exports = {
   title: 'WHUCodingAndOpen',
   description: 'WHU编程交流兼开源社区',
-  base: "/",
+  base: "/whucao",
   lastUpdated: true,
   themeConfig: {
     nav: [
