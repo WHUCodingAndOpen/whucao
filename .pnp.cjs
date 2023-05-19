@@ -28,7 +28,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["vitepress", "npm:1.0.0-alpha.76"]\
+            ["vitepress", "npm:1.0.0-alpha.76"],\
+            ["vue", "npm:3.3.4"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -2158,7 +2159,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["whucao", "workspace:."],\
-            ["vitepress", "npm:1.0.0-alpha.76"]\
+            ["vitepress", "npm:1.0.0-alpha.76"],\
+            ["vue", "npm:3.3.4"]\
           ],\
           "linkType": "SOFT"\
         }]\

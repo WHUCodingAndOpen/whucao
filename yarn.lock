@@ -1846,6 +1846,7 @@ __metadata:
   resolution: "whucao@workspace:."
   dependencies:
     vitepress: ^1.0.0-alpha.76
+    vue: ^3.3.4
   languageName: unknown
   linkType: soft
 
