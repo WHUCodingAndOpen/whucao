@@ -6,6 +6,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "首页", link: "/" }, 
+      { text: "技术教程", link: "/tech" }, 
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/WHUCodingAndOpen" }],
     footer: {
