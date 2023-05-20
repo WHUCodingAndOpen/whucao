@@ -7,6 +7,7 @@ module.exports = {
     nav: [
       { text: "首页", link: "/" }, 
       { text: "技术教程", link: "/tech" }, 
+      { text: "资料整理", link: "/zip" }, 
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/WHUCodingAndOpen" }],
     footer: {
