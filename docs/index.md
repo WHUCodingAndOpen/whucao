@@ -18,3 +18,4 @@ WHUCAO 下游为 WHUCAO 社区，社区可以自由讨论编程和开源资料�
 
 加入 WHUCAO 贡献者需要在 [WHUCAO-OpenCourseResources](https://github.com/WHUCodingAndOpen/OpenCourseResources) PR 资料并且被成功 Merge，此外，需要独立贡献某资料的一部分，如单独整理当年离散数学的1-3章节的内容，此外，WHUCAO 也会有部分的新手手册等社区任务，这也可以作为独立贡献的指标。
 成为 WHUCAO 贡献者后可以享受其他 WHUCAO 贡献者贡献的资料，达到互利的目的。
+
