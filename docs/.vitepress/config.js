@@ -9,6 +9,7 @@ module.exports = {
       { text: "技术教程", link: "/tech" }, 
       { text: "资料整理", link: "/zip" }, 
       { text: "新生指南", link: "/guide" }, 
+      { text: "技术工具", link: "/tools" }, 
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/WHUCodingAndOpen" }],
     footer: {
