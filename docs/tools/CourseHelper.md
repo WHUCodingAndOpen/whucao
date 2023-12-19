@@ -2,7 +2,7 @@
 
 ## 项目仓库
 
-[点我！点我！](https://github.com/WHUnicorn/CourseHelper)
+Repo：[CourseHelper](https://github.com/WHUnicorn/CourseHelper)
 
 ## 这个项目是干什么的
 
