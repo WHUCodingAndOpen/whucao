@@ -10,7 +10,7 @@ WHUCAO 全名 WHUCodingAndOpen，中文名称为 "WHU 编程交流兼开源社�
 - WHUCAO Github组织：[WHUCAO](https://github.com/WHUCodingAndOpen)
 - WHUCAO 子组织 OpenWHU：[OpenWHU](https://github.com/openwhu)
 - WHUCAO Coding：[MyCoding](https://mycoding.sorux.cn/summary)
-- WHUCAO QQ 群号：728342352
+- WHUCAO QQ 群号：699618411
 - WHUCAO QQ 频道号：WHUOpenCode22
 
 :::tip
