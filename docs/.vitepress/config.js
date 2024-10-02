@@ -11,6 +11,7 @@ module.exports = {
       { text: "新生指南", link: "/guide/index.md" }, 
       { text: "技术工具", link: "/tools/index.md" }, 
       { text: "专项计划", link: "/solo/index.md" }, 
+      { text: "保研经验", link: "/master/index.md" }, 
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/WHUCodingAndOpen" }],
     footer: {
