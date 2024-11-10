@@ -10,6 +10,4 @@
 
 [软工保研|夏令营上岸版|含清北、港三、华五](./wyr.md)
 
-### 参考
 
-[友情链接：珞珈晚邮](https://www.notion.so/yuangpeng/875b064c3f29490fa1a940403e4ab11b)
